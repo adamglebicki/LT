@@ -55,6 +55,6 @@ const IndexPage = () => (
         <Contact />
       </StyledWrapper>
   </>
-)
+  )
 
 export default IndexPage
